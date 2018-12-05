@@ -52,3 +52,12 @@
     background-color: #6a8d2c;
     color: white;
 }
+
+#place-time img {
+    max-width: 100%;
+}
+
+#place-time {
+    background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372) !important;
+    color: white;
+}
