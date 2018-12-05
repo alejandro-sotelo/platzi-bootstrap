@@ -37,3 +37,18 @@
 .text-platzi{
     color: #97c93e !important;
 }
+
+.btn-platzi{
+    background-color: #97c93e;
+    color: white;
+}
+
+.btn-platzi:hover{
+    background-color: #6a8d2c;
+    color: white;
+}
+
+.btn-platzi:{
+    background-color: #6a8d2c;
+    color: white;
+}
