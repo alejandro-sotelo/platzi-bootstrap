@@ -1,7 +1,15 @@
 #footer{
-    background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372)
+    background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372);
 }
 
 #footer a{
     color: white;
+}
+
+.bg-dark{
+    background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372) !important;
+}
+
+.text-platzi{
+    color: #97c93e !important;
 }
